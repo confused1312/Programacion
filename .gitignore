@@ -4,11 +4,6 @@
 # Log file
 *.log
 
-# IntelliJ IDEA
-.idea/
-*.iml
-out/
-
 # BlueJ files
 *.ctxt
 
