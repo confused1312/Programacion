@@ -8,7 +8,6 @@
 .idea/
 *.iml
 out/
-.gitignore
 
 # BlueJ files
 *.ctxt
