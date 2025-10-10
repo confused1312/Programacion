@@ -1,4 +1,4 @@
-public class Ejercicio2 {
+public class Ejercicio02 {
     public static void main(String[] args) {
         int puntuacionInicial = 0;
         int segundaPuntuacion = 5;

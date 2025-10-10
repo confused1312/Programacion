@@ -1,4 +1,4 @@
-public class Ejercicio4 {
+public class Ejercicio04 {
     public static void main(String[] args) {
         String titulo = "Don Quijote de la Mancha";
         String autor = "Miguel de Cervantes";

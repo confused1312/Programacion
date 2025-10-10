@@ -1,4 +1,4 @@
-public class Ejercicio5 {
+public class Ejercicio05 {
     public static void main(String[] args) {
         final String aplicacion = "MiApp";
         String version = "1.0.0";

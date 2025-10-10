@@ -1,4 +1,4 @@
-public class Ejercicio9 {
+public class Ejercicio09 {
     public static void main(String[] args) {
         String nombreProducto = "Auriculares Bluetooth";
         float precioProducto = 29.99F;

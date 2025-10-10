@@ -1,4 +1,4 @@
-public class Ejercicio6 {
+public class Ejercicio06 {
     public static void main(String[] args) {
         int primerNumero = 10;
         int segundoNumero = 5;
