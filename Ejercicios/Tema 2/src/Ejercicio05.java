@@ -16,7 +16,5 @@ public class Ejercicio05 {
         System.out.println("¿Eres mayor de 21 años?: " + mayorDeEdad);
         System.out.println("¿Tienes carnet?: " + carnet);
         System.out.println("¿Puedes alquilar un coche? (AND): " + puedeAlquilar);
-
-
     }
 }

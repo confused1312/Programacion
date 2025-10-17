@@ -21,6 +21,5 @@ public class Ejercicio01 {
         System.out.println("Multiplicación: " + multiplicacion);
         System.out.println("División: " + division);
         System.out.println("Módulo (resto): " + modulo);
-
     }
 }

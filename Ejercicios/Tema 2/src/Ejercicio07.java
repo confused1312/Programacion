@@ -20,9 +20,6 @@ public class Ejercicio07 {
         System.out.println("¿Tienes descuento de joven? (menor de 26): " + menorDe);
         System.out.println("¿Tienes descuento de estudiante?: " + estudiante);
         System.out.println("¿Tienes descuento especial? (menor de 26 AND estudiante): " + descuentoEspecial);
-
-
-
     }
 }
 

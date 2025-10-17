@@ -29,7 +29,5 @@ public class Ejercicio10 {
         System.out.println("Salario por horas normales: " + salarioHorasNormales + "€");
         System.out.println("Salario por horas extra (al doble): " + salarioHorasExtra + "€");
         System.out.println("Salario total: " + salarioTotal + "€");
-
-        scanner.close();
     }
 }
